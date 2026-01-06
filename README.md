@@ -75,3 +75,9 @@ Make sure the audio file is in the **same folder** as `MindCare.py` (it is inclu
 - **If the game window doesn't appear**: run from Terminal/Command Prompt (not from an environment that blocks Pygame windows).
 - **If you get “module not found”**: install dependencies using the commands above.
 - **If you get “file not found” for the audio**: confirm `ES_Feelings - Ryan James Carr.wav` is in the same folder as `MindCare.py`.
+
+## Authors
+
+- Giulia Cenni  
+- Enzo Garcia (collaborator; no GitHub account)
+
